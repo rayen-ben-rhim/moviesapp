@@ -1,0 +1,31 @@
+.movie {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.movies {
+  display: flex;
+  flex-wrap:wrap ;
+  justify-content: center;
+}
+.moves_caed_title{
+    max-width: 200px;
+}
+.more{
+    display: flex;
+    justify-content: center;
+    margin-inline: 150px;
+    padding: 10px;
+    border: none;
+    background-color: rgba(45, 132, 238, 0.817);
+    color: aliceblue;
+    cursor: pointer;
+    margin: 10px;
+   
+}
+.all{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
